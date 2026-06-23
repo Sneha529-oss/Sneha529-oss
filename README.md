@@ -2,7 +2,7 @@
 👋 Hi, I'm Sneha Chaurasia, a Computer Science Engineering (AI & ML) student at MIT Academy of Engineering, Pune.<br><br>🌱 I am passionate about Artificial Intelligence, Machine Learning, Data Analytics, Web Development, and building technology that creates real-world impact.<br><br>🚀 I enjoy working on innovative projects, participating in internships, collaborating with diverse teams, and exploring global opportunities for learning and networking.<br><br>🌍 My goal is to continuously upskill, contribute to open-source projects, gain international exposure through internships and exchange programs, and grow into a skilled AI and software professional.<br><br>💡 I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sneha.00347/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sneha-chaurasia-739b55337) 
 
 # 💻 Tech Stack:
