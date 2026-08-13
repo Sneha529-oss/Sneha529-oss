@@ -13,7 +13,7 @@
 
 ## 💼 Experience
 
-### 🤖 Artificial Intelligence Intern — Lenovo Leap NextGen Scholar Program
+### • Artificial Intelligence Intern — Lenovo Leap NextGen Scholar Program
 **BharatCares** · June 2026 – July 2026
 
 - Developed an AI-powered chatbot using **Botpress**.
@@ -22,7 +22,7 @@
 
 ---
 
-### 🌐 Front-End Web Development Intern — IBM
+### • Front-End Web Development Intern — IBM
 **Edunet Foundation · AICTE** · August 2025 – September 2025
 
 - Developed and worked on responsive front-end web applications.
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 Conversational Data Analysis with LLMs — VOIS Virtual Internship
+### • Conversational Data Analysis with LLMs — VOIS Virtual Internship
 **Edunet Foundation · AICTE · Vodafone Idea Foundation** · September 2025 – October 2025
 
 - Explored **Large Language Models (LLMs)** and their applications in conversational data analysis.
@@ -40,11 +40,10 @@
 
 ---
 
-### 🌐 Networking Virtual Internship — Cisco
+### • Networking Virtual Internship — Cisco
 **AICTE · Ministry of Education, Government of India** · June 2025 – August 2025
 
 - Gained practical exposure to **computer networking concepts and technologies**.
 - Worked through networking-related learning modules and hands-on activities.
-- Strengthened understanding of networking fundamentals and their real-world applications.s
-
+- Strengthened understanding of networking fundamentals and their real-world applications.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
