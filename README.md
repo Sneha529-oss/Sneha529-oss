@@ -27,7 +27,7 @@
 
 - Developed an AI-powered chatbot using **Botpress**.
 - Worked on conversational AI and explored practical applications of AI agents.
-- Gained hands-on experience in building and testing AI-based solutions.
+- Gained hands-on experience in building and testing AI- based solutions.
 
 ---
 
