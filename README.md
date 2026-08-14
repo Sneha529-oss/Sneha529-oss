@@ -1,12 +1,13 @@
 <div align="center">
 
-# <span style="color:#8B5CF6;">Sneha Chaurasia</span>
+<a href="https://github.com/Sneha529-oss">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Sneha+Chaurasia" alt="Sneha Chaurasia" />
+</a>
 
 ### AI/ML Engineer • AI Agents • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+with+AI+%26+Machine+Learning;Exploring+Agentic+AI+%26+Automation;Creating+Intelligent+Full+Stack+Applications;Always+Learning+%26+Building" alt="Typing animation" />
-
 </div>
+
 
 ---
 🎓 I am an AI/ML engineer, pursuing B.Tech Computer Science Engineering (AI & ML) at MIT Academy of Engineering, Pune.<br><br>• CGPA: **8.81 / 10**<br><br>• Passionate about Artificial Intelligence, Machine Learning, Agentic AI, Full Stack Development, and Workflow Automation.<br><br>• I enjoy working on innovative projects, building AI agents, workflow automations, and intelligent applications to solve real-world problems.<br><br>• Open to internships, research collaborations, open-source contributions, and global learning opportunities.<br><br>• I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
