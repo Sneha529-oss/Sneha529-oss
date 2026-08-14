@@ -1,10 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/Sneha529-oss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Sneha+Chaurasia" alt="Sneha Chaurasia" />
-</a>
+# 💫 Sneha Chaurasia
 
-### AI/ML Engineer • AI Agents • Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;AI+Agent+Builder;Full+Stack+Developer;Workflow+Automation+Enthusiast" alt="Typing Animation" />
 
 </div>
 
