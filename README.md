@@ -1,7 +1,6 @@
 <div align="center">
 
 # 💫 Sneha Chaurasia
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;AI+Agent+Builder;Full+Stack+Developer;Workflow+Automation+Enthusiast" alt="Typing Animation" />
 
 </div>
@@ -9,7 +8,6 @@
 
 ---
 🎓 I am an AI/ML engineer, pursuing B.Tech Computer Science Engineering (AI & ML) at MIT Academy of Engineering, Pune.<br><br>• CGPA: **8.81 / 10**<br><br>• Passionate about Artificial Intelligence, Machine Learning, Agentic AI, Full Stack Development, and Workflow Automation.<br><br>• I enjoy working on innovative projects, building AI agents, workflow automations, and intelligent applications to solve real-world problems.<br><br>• Open to internships, research collaborations, open-source contributions, and global learning opportunities.<br><br>• I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
-
 
 
 ## 🌐 Connect with me:
