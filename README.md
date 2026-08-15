@@ -17,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-chaurasia-739b55337/) 
 [![Gmail](https://img.shields.io/badge/Gmail-sneha.chaurasia0306%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sneha.chaurasia0306@gmail.com)
 
+---
+
 ## 💻 Tech Stack:
 
 ### Languages
@@ -54,6 +56,7 @@
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 💼 Experience
 
