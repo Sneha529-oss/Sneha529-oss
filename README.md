@@ -6,7 +6,7 @@
 </div>
 
 ---
-🎓 I am an AI/ML engineer, pursuing B.Tech Computer Science Engineering (AI & ML) at MIT Academy of Engineering, Pune.<br><br>• CGPA: **8.81 / 10**<br><br>• Passionate about Artificial Intelligence, Machine Learning, Agentic AI, Full Stack Development, and Workflow Automation.<br><br>• I enjoy working on innovative projects, building AI agents, workflow automations, and intelligent applications to solve real-world problems.<br><br>• Open to internships, research collaborations, open-source contributions, and global learning opportunities.<br><br>• I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
+🎓 I am an AI/ML engineer, pursuing B.Tech Computer Science Engineering (AI & ML) at MIT Academy of Engineering, Pune.<br><br>• CGPA: **8.81 / 10**<br><br>• Passionate about Artificial Intelligence, Machine Learning, Agentic AI, Full Stack Development, and Workflow Automation.<br><br>• I enjoy working on innovative projects, building AI agents, workflow automations, and intelligent applications to solve real-world problems.<br><br>• Open to internships, research collaborations, open-source contributions, and global learning opportunities...<br><br>• I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
 
 
 ## 🌐 Connect with me:
