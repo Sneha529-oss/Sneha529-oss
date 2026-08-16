@@ -9,13 +9,13 @@
 🎓 I am an AI/ML engineer, pursuing B.Tech Computer Science Engineering (AI & ML) at MIT Academy of Engineering, Pune.<br><br>• CGPA: **8.81 / 10**<br><br>• Passionate about Artificial Intelligence, Machine Learning, Agentic AI, Full Stack Development, and Workflow Automation.<br><br>• I enjoy working on innovative projects, building AI agents, workflow automations, and intelligent applications to solve real-world problems.<br><br>• Open to internships, research collaborations, open-source contributions, and global learning opportunities...<br><br>• I believe in lifelong learning, problem-solving, and using technology to address sustainability and social challenges.<br>
 
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-chaurasia-739b55337/) 
 [![Gmail](https://img.shields.io/badge/Gmail-sneha.chaurasia0306%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sneha.chaurasia0306@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sneha.00347/) 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
