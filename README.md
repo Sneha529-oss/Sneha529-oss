@@ -80,7 +80,7 @@
 - Explored **Large Language Models (LLMs)** and their applications in conversational data analysis.
 - Worked with AI-based approaches for understanding and analyzing conversational data.
 - Gained practical exposure to emerging generative AI technologies.
-
+  
 ---
 
 ### • Networking Virtual Internship — Cisco
