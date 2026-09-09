@@ -14,8 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sneha.chaurasia0306%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sneha.chaurasia0306@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sneha.00347/) 
 ---
-Resume
-Portfolio
+
 ## Tech Stack:
 
 ### Languages
