@@ -2,7 +2,7 @@
 
 # 💫 Sneha Chaurasia
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;AI+Agent+Builder;Full+Stack+Developer;Workflow+Automation+Enthusiast" alt="Typing Animation" />
-.
+
 </div>
 
 ---
