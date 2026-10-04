@@ -82,7 +82,6 @@
 - Gained practical exposure to emerging generative AI technologies.
   
 ---
-sm
 
 ### • Networking Virtual Internship — Cisco
 **AICTE · Ministry of Education, Government of India** · June 2025 – August 2025
