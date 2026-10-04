@@ -65,7 +65,7 @@
 
 ---
 
-### • Front-End Web Development Intern — IBM
+### • Front-End Web Development Intern — Edunet(IBM)
 **Edunet Foundation · AICTE** · August 2025 – September 2025
 
 - Developed and worked on responsive front-end web applications.
